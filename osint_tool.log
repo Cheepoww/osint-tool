@@ -1,0 +1,119 @@
+2026-03-31 12:31:31,796 [INFO] ============================================================
+2026-03-31 12:31:31,796 [INFO]  OSINT Tehdit İstihbaratı Aracı Başlatılıyor
+2026-03-31 12:31:31,796 [INFO] ============================================================
+2026-03-31 12:31:31,797 [INFO] URLhaus'tan veri çekiliyor...
+2026-03-31 12:31:33,167 [INFO] URLhaus: 21098 kayıt alındı.
+2026-03-31 12:31:33,173 [INFO] Feodo Tracker'dan veri çekiliyor...
+2026-03-31 12:31:33,890 [INFO] Feodo Tracker: 5 IP adresi alındı.
+2026-03-31 12:31:33,892 [INFO] PhishTank'tan veri çekiliyor...
+2026-03-31 12:31:36,277 [INFO] PhishTank: 5000 URL alındı.
+2026-03-31 12:31:36,282 [INFO] Veri temizleme ve tekilleştirme başlıyor...
+2026-03-31 12:31:36,311 [INFO] Temizleme tamamlandı: 26103 → 26103 kayıt (0 mükerrer/boş silindi).
+2026-03-31 12:31:36,311 [INFO] GeoIP zenginleştirmesi başlıyor (limit: ilk 1000 IP)...
+2026-03-31 12:31:36,351 [INFO] Toplam 12646 IP bulundu → 1000 tanesi sorgulanacak, geri kalanı 'Skipped (limit)' olarak işaretlenecek.
+2026-03-31 12:31:50,506 [INFO] GeoIP ilerleme: 10/1000
+2026-03-31 12:32:06,077 [INFO] GeoIP ilerleme: 20/1000
+2026-03-31 12:32:21,612 [INFO] GeoIP ilerleme: 30/1000
+2026-03-31 12:32:37,167 [INFO] GeoIP ilerleme: 40/1000
+2026-03-31 12:32:52,862 [INFO] GeoIP ilerleme: 50/1000
+2026-03-31 12:33:08,397 [INFO] GeoIP ilerleme: 60/1000
+2026-03-31 12:33:23,962 [INFO] GeoIP ilerleme: 70/1000
+2026-03-31 12:33:39,511 [INFO] GeoIP ilerleme: 80/1000
+2026-03-31 12:33:55,155 [INFO] GeoIP ilerleme: 90/1000
+2026-03-31 12:34:10,700 [INFO] GeoIP ilerleme: 100/1000
+2026-03-31 12:34:26,249 [INFO] GeoIP ilerleme: 110/1000
+2026-03-31 12:34:41,831 [INFO] GeoIP ilerleme: 120/1000
+2026-03-31 12:34:57,417 [INFO] GeoIP ilerleme: 130/1000
+2026-03-31 12:35:12,945 [INFO] GeoIP ilerleme: 140/1000
+2026-03-31 12:35:28,528 [INFO] GeoIP ilerleme: 150/1000
+2026-03-31 12:35:44,057 [INFO] GeoIP ilerleme: 160/1000
+2026-03-31 12:35:59,675 [INFO] GeoIP ilerleme: 170/1000
+2026-03-31 12:36:15,262 [INFO] GeoIP ilerleme: 180/1000
+2026-03-31 12:36:30,800 [INFO] GeoIP ilerleme: 190/1000
+2026-03-31 12:36:46,363 [INFO] GeoIP ilerleme: 200/1000
+2026-03-31 12:37:02,086 [INFO] GeoIP ilerleme: 210/1000
+2026-03-31 12:37:17,621 [INFO] GeoIP ilerleme: 220/1000
+2026-03-31 12:37:33,187 [INFO] GeoIP ilerleme: 230/1000
+2026-03-31 12:37:48,723 [INFO] GeoIP ilerleme: 240/1000
+2026-03-31 12:38:04,317 [INFO] GeoIP ilerleme: 250/1000
+2026-03-31 12:38:19,814 [INFO] GeoIP ilerleme: 260/1000
+2026-03-31 12:38:35,351 [INFO] GeoIP ilerleme: 270/1000
+2026-03-31 12:38:50,913 [INFO] GeoIP ilerleme: 280/1000
+2026-03-31 12:39:06,547 [INFO] GeoIP ilerleme: 290/1000
+2026-03-31 12:39:22,083 [INFO] GeoIP ilerleme: 300/1000
+2026-03-31 12:39:37,724 [INFO] GeoIP ilerleme: 310/1000
+2026-03-31 12:39:53,300 [INFO] GeoIP ilerleme: 320/1000
+2026-03-31 12:40:08,894 [INFO] GeoIP ilerleme: 330/1000
+2026-03-31 12:40:24,511 [INFO] GeoIP ilerleme: 340/1000
+2026-03-31 12:40:40,023 [INFO] GeoIP ilerleme: 350/1000
+2026-03-31 12:40:55,520 [INFO] GeoIP ilerleme: 360/1000
+2026-03-31 12:41:11,080 [INFO] GeoIP ilerleme: 370/1000
+2026-03-31 12:41:26,674 [INFO] GeoIP ilerleme: 380/1000
+2026-03-31 12:41:42,238 [INFO] GeoIP ilerleme: 390/1000
+2026-03-31 12:41:57,814 [INFO] GeoIP ilerleme: 400/1000
+2026-03-31 12:42:13,399 [INFO] GeoIP ilerleme: 410/1000
+2026-03-31 12:42:29,068 [INFO] GeoIP ilerleme: 420/1000
+2026-03-31 12:42:44,633 [INFO] GeoIP ilerleme: 430/1000
+2026-03-31 12:43:00,185 [INFO] GeoIP ilerleme: 440/1000
+2026-03-31 12:43:15,734 [INFO] GeoIP ilerleme: 450/1000
+2026-03-31 12:43:31,372 [INFO] GeoIP ilerleme: 460/1000
+2026-03-31 12:43:46,902 [INFO] GeoIP ilerleme: 470/1000
+2026-03-31 12:44:02,518 [INFO] GeoIP ilerleme: 480/1000
+2026-03-31 12:44:18,086 [INFO] GeoIP ilerleme: 490/1000
+2026-03-31 12:44:33,703 [INFO] GeoIP ilerleme: 500/1000
+2026-03-31 12:44:49,295 [INFO] GeoIP ilerleme: 510/1000
+2026-03-31 12:45:04,839 [INFO] GeoIP ilerleme: 520/1000
+2026-03-31 12:45:20,392 [INFO] GeoIP ilerleme: 530/1000
+2026-03-31 12:45:35,974 [INFO] GeoIP ilerleme: 540/1000
+2026-03-31 12:45:51,506 [INFO] GeoIP ilerleme: 550/1000
+2026-03-31 12:46:07,055 [INFO] GeoIP ilerleme: 560/1000
+2026-03-31 12:46:22,616 [INFO] GeoIP ilerleme: 570/1000
+2026-03-31 12:46:38,252 [INFO] GeoIP ilerleme: 580/1000
+2026-03-31 12:46:53,833 [INFO] GeoIP ilerleme: 590/1000
+2026-03-31 12:47:09,389 [INFO] GeoIP ilerleme: 600/1000
+2026-03-31 12:47:24,969 [INFO] GeoIP ilerleme: 610/1000
+2026-03-31 12:47:40,629 [INFO] GeoIP ilerleme: 620/1000
+2026-03-31 12:47:56,155 [INFO] GeoIP ilerleme: 630/1000
+2026-03-31 12:48:11,721 [INFO] GeoIP ilerleme: 640/1000
+2026-03-31 12:48:27,291 [INFO] GeoIP ilerleme: 650/1000
+2026-03-31 12:48:42,894 [INFO] GeoIP ilerleme: 660/1000
+2026-03-31 12:48:58,524 [INFO] GeoIP ilerleme: 670/1000
+2026-03-31 12:49:14,077 [INFO] GeoIP ilerleme: 680/1000
+2026-03-31 12:49:29,646 [INFO] GeoIP ilerleme: 690/1000
+2026-03-31 12:49:45,320 [INFO] GeoIP ilerleme: 700/1000
+2026-03-31 12:50:00,859 [INFO] GeoIP ilerleme: 710/1000
+2026-03-31 12:50:16,383 [INFO] GeoIP ilerleme: 720/1000
+2026-03-31 12:50:31,926 [INFO] GeoIP ilerleme: 730/1000
+2026-03-31 12:50:47,690 [INFO] GeoIP ilerleme: 740/1000
+2026-03-31 12:51:03,260 [INFO] GeoIP ilerleme: 750/1000
+2026-03-31 12:51:18,853 [INFO] GeoIP ilerleme: 760/1000
+2026-03-31 12:51:34,499 [INFO] GeoIP ilerleme: 770/1000
+2026-03-31 12:51:50,077 [INFO] GeoIP ilerleme: 780/1000
+2026-03-31 12:52:05,634 [INFO] GeoIP ilerleme: 790/1000
+2026-03-31 12:52:21,195 [INFO] GeoIP ilerleme: 800/1000
+2026-03-31 12:52:36,852 [INFO] GeoIP ilerleme: 810/1000
+2026-03-31 12:52:52,367 [INFO] GeoIP ilerleme: 820/1000
+2026-03-31 12:53:07,945 [INFO] GeoIP ilerleme: 830/1000
+2026-03-31 12:53:23,504 [INFO] GeoIP ilerleme: 840/1000
+2026-03-31 12:53:39,128 [INFO] GeoIP ilerleme: 850/1000
+2026-03-31 12:53:54,707 [INFO] GeoIP ilerleme: 860/1000
+2026-03-31 12:54:10,259 [INFO] GeoIP ilerleme: 870/1000
+2026-03-31 12:54:25,812 [INFO] GeoIP ilerleme: 880/1000
+2026-03-31 12:54:41,424 [INFO] GeoIP ilerleme: 890/1000
+2026-03-31 12:54:56,920 [INFO] GeoIP ilerleme: 900/1000
+2026-03-31 12:55:12,614 [INFO] GeoIP ilerleme: 910/1000
+2026-03-31 12:55:28,185 [INFO] GeoIP ilerleme: 920/1000
+2026-03-31 12:55:43,723 [INFO] GeoIP ilerleme: 930/1000
+2026-03-31 12:55:59,274 [INFO] GeoIP ilerleme: 940/1000
+2026-03-31 12:56:14,802 [INFO] GeoIP ilerleme: 950/1000
+2026-03-31 12:56:30,368 [INFO] GeoIP ilerleme: 960/1000
+2026-03-31 12:56:45,951 [INFO] GeoIP ilerleme: 970/1000
+2026-03-31 12:57:01,521 [INFO] GeoIP ilerleme: 980/1000
+2026-03-31 12:57:17,050 [INFO] GeoIP ilerleme: 990/1000
+2026-03-31 12:57:32,636 [INFO] GeoIP ilerleme: 1000/1000
+2026-03-31 12:57:35,662 [INFO] GeoIP tamamlandı: 1000 sorgulandı, 11646 atlandı.
+2026-03-31 12:57:35,663 [INFO] Xlog formatında dosya kaydediliyor: xlog_threat_intel.txt
+2026-03-31 12:57:35,699 [INFO] Xlog dosyası başarıyla oluşturuldu: xlog_threat_intel.txt (26103 satır)
+2026-03-31 12:57:35,699 [INFO] Tam rapor CSV olarak kaydediliyor: full_report.csv
+2026-03-31 12:57:35,824 [INFO] Tam rapor başarıyla oluşturuldu: full_report.csv
+2026-03-31 12:57:35,845 [INFO] Tüm işlemler başarıyla tamamlandı.
